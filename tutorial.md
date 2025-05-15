@@ -7,6 +7,7 @@ Open the 'Blocks' tab and use the ''||place (block) at ~0 ~0 ~0||'' block to pla
 ```blocks
 // @highlight
 blocks.place()
+'''
 
 ## Replacing Blocks
 
@@ -15,6 +16,7 @@ You can use the ''||replace with (block) when block is (block)||'' to change exi
 ```blocks
 // @highlight
 blocks.replace()
+'''
 
 ## Advice
 
