@@ -2,12 +2,11 @@
 
 ## Placing blocks
 
-Open the 'Blocks' tab and use the ''||place (block) at ~0 ~0 ~0||'' block to place something where you're standing
+Open the 'Blocks' tab and use the ''||blocks:place||'' block to place something where you're standing
 
 ```blocks
 // @highlight
 blocks.place()
-'''
 
 ## Replacing Blocks
 
